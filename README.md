@@ -160,7 +160,7 @@ You can sort the date in desending order by clicking the arrow next to the Date 
 
 <h3 id="filtering">Filtering</h3>
 <p>
-  The application allows filtering of tickets by <strong>ID</strong>, <strong>Status</strong>, or <strong>Description</strong>. 
+  By clicking on the gray filter icon located at the top of the ticket list, next to the pagination controls, users can filter tickets by <strong>ID</strong>, <strong>Status</strong>, or <strong>Description</strong>. 
   Use the search bar or filter dropdowns to narrow down the list.
 </p>
 <img src="./screenshots/filtre with the tree.PNG" alt="Filtering" />
