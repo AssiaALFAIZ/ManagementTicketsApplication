@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B89417F2-3715-4BF7-80CC-E04E2502C550}|ManagementTicketsApplication.Tests\\ManagementTicketsApplication.Tests.csproj|c:\\users\\assia\\desktop\\assiat\\managementticketsapplication\\back\\managementticketsapplication\\managementticketsapplication.tests\\presentation\\controllers\\ticketscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89417F2-3715-4BF7-80CC-E04E2502C550}|ManagementTicketsApplication.Tests\\ManagementTicketsApplication.Tests.csproj|solutionrelative:managementticketsapplication.tests\\presentation\\controllers\\ticketscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|c:\\users\\assia\\desktop\\assiat\\managementticketsapplication\\back\\managementticketsapplication\\managementticketsapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|solutionrelative:managementticketsapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|c:\\users\\assia\\desktop\\assiat\\managementticketsapplication\\back\\managementticketsapplication\\managementticketsapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|solutionrelative:managementticketsapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|c:\\users\\assia\\desktop\\assiat\\managementticketsapplication\\back\\managementticketsapplication\\managementticketsapplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|solutionrelative:managementticketsapplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89417F2-3715-4BF7-80CC-E04E2502C550}|ManagementTicketsApplication.Tests\\ManagementTicketsApplication.Tests.csproj|c:\\users\\assia\\desktop\\assiat\\managementticketsapplication\\back\\managementticketsapplication\\managementticketsapplication.tests\\managementticketsapplication.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B89417F2-3715-4BF7-80CC-E04E2502C550}|ManagementTicketsApplication.Tests\\ManagementTicketsApplication.Tests.csproj|solutionrelative:managementticketsapplication.tests\\managementticketsapplication.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|c:\\users\\assia\\desktop\\assiat\\managementticketsapplication\\back\\managementticketsapplication\\managementticketsapplication\\application\\features\\queries\\getticketsbypaginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|solutionrelative:managementticketsapplication\\application\\features\\queries\\getticketsbypaginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|c:\\users\\assia\\desktop\\assiat\\managementticketsapplication\\back\\managementticketsapplication\\managementticketsapplication\\application\\features\\queries\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|solutionrelative:managementticketsapplication\\application\\features\\queries\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|c:\\users\\assia\\desktop\\assiat\\managementticketsapplication\\back\\managementticketsapplication\\managementticketsapplication\\application\\features\\commands\\updateticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|solutionrelative:managementticketsapplication\\application\\features\\commands\\updateticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|c:\\users\\assia\\desktop\\assiat\\managementticketsapplication\\back\\managementticketsapplication\\managementticketsapplication\\application\\features\\commands\\deleteticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|solutionrelative:managementticketsapplication\\application\\features\\commands\\deleteticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|c:\\users\\assia\\desktop\\assiat\\managementticketsapplication\\back\\managementticketsapplication\\managementticketsapplication\\application\\features\\commands\\creatticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE9A164-330D-4BDE-BEEC-CF248BA48911}|ManagementTicketsApplication\\ManagementTicketsApplication.csproj|solutionrelative:managementticketsapplication\\application\\features\\commands\\creatticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication.Tests\\Presentation\\Controllers\\TicketsControllerTests.cs",
+              "RelativeDocumentMoniker": "ManagementTicketsApplication.Tests\\Presentation\\Controllers\\TicketsControllerTests.cs",
+              "ToolTip": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication.Tests\\Presentation\\Controllers\\TicketsControllerTests.cs",
+              "RelativeToolTip": "ManagementTicketsApplication.Tests\\Presentation\\Controllers\\TicketsControllerTests.cs",
+              "ViewState": "AgIAAAwAAAAANDMzMzPbvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:02:06.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ManagementTicketsApplication\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\appsettings.Development.json",
+              "RelativeToolTip": "ManagementTicketsApplication\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T19:39:46.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "ManagementTicketsApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\appsettings.json",
+              "RelativeToolTip": "ManagementTicketsApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T19:39:43.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagementTicketsApplication.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication.Tests\\ManagementTicketsApplication.Tests.csproj",
+              "RelativeDocumentMoniker": "ManagementTicketsApplication.Tests\\ManagementTicketsApplication.Tests.csproj",
+              "ToolTip": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication.Tests\\ManagementTicketsApplication.Tests.csproj",
+              "RelativeToolTip": "ManagementTicketsApplication.Tests\\ManagementTicketsApplication.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T18:49:24.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ManagementTicketsApplication\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ManagementTicketsApplication\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:33:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTicketsByPaginationQuery.cs",
+              "DocumentMoniker": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Application\\Features\\Queries\\GetTicketsByPaginationQuery.cs",
+              "RelativeDocumentMoniker": "ManagementTicketsApplication\\Application\\Features\\Queries\\GetTicketsByPaginationQuery.cs",
+              "ToolTip": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Application\\Features\\Queries\\GetTicketsByPaginationQuery.cs",
+              "RelativeToolTip": "ManagementTicketsApplication\\Application\\Features\\Queries\\GetTicketsByPaginationQuery.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:46:34.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetTicketByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Application\\Features\\Queries\\GetTicketByIdQuery.cs",
+              "RelativeDocumentMoniker": "ManagementTicketsApplication\\Application\\Features\\Queries\\GetTicketByIdQuery.cs",
+              "ToolTip": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Application\\Features\\Queries\\GetTicketByIdQuery.cs",
+              "RelativeToolTip": "ManagementTicketsApplication\\Application\\Features\\Queries\\GetTicketByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:46:17.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateTicketCommand.cs",
+              "DocumentMoniker": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Application\\Features\\Commands\\UpdateTicketCommand.cs",
+              "RelativeDocumentMoniker": "ManagementTicketsApplication\\Application\\Features\\Commands\\UpdateTicketCommand.cs",
+              "ToolTip": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Application\\Features\\Commands\\UpdateTicketCommand.cs",
+              "RelativeToolTip": "ManagementTicketsApplication\\Application\\Features\\Commands\\UpdateTicketCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:46:01.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteTicketCommand.cs",
+              "DocumentMoniker": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Application\\Features\\Commands\\DeleteTicketCommand.cs",
+              "RelativeDocumentMoniker": "ManagementTicketsApplication\\Application\\Features\\Commands\\DeleteTicketCommand.cs",
+              "ToolTip": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Application\\Features\\Commands\\DeleteTicketCommand.cs",
+              "RelativeToolTip": "ManagementTicketsApplication\\Application\\Features\\Commands\\DeleteTicketCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:45:46.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreatTicketCommand.cs",
+              "DocumentMoniker": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Application\\Features\\Commands\\CreatTicketCommand.cs",
+              "RelativeDocumentMoniker": "ManagementTicketsApplication\\Application\\Features\\Commands\\CreatTicketCommand.cs",
+              "ToolTip": "C:\\Users\\assia\\Desktop\\assiaT\\ManagementTicketsApplication\\BACK\\ManagementTicketsApplication\\ManagementTicketsApplication\\Application\\Features\\Commands\\CreatTicketCommand.cs",
+              "RelativeToolTip": "ManagementTicketsApplication\\Application\\Features\\Commands\\CreatTicketCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:45:32.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e24SqkH6t+YtSN2ZqgxPeElBQ6w5FLGy1cfiGVK5hPo=",
+  "Source": "ManagementTicketsApplication",
+  "BasePath": "_content/ManagementTicketsApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
