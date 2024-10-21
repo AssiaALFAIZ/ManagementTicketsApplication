@@ -23,7 +23,6 @@
     </ul>
   </li>
   <li><a href="#technologies">Technologies</a></li>
-  <li><a href="#screenshots">Screenshots</a></li>
 </ul>
 
 <h2 id="features">Features</h2>
