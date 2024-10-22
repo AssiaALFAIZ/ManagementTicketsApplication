@@ -1,0 +1,258 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.app-container {
+  padding: 20px;
+  text-align: center;
+  background-color: #f9f9f9;  
+  min-height: 100vh; 
+}
+
+.app-title {
+  font-family: 'Poppins', sans-serif; 
+  font-size: 40px; 
+  font-weight: 600; 
+  text-transform: uppercase; 
+  color: #D6A2E8;
+  letter-spacing: 3px; 
+  margin-bottom: 30px;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.15); 
+}
+.table-container {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.table-header {
+  background-color: #43A047;
+ 
+}
+.table-header .MuiTableCell-root {
+  color: #fff; 
+}
+.table-cell {
+  font-weight: bold;
+  color: #fff; 
+  padding: 16px;
+  border-bottom: none;
+  border-right: 1px solid white;
+}
+
+.table-row-even {
+  background-color: #f9f9f9;
+}
+
+.table-row-odd {
+  background-color: #fff;
+}
+
+/* Styles pour le Dialog de filtre */
+.dialog-title{
+  color: green;
+
+}
+.dialog-container {
+  padding: 20px;
+  position: relative;
+}
+
+.button-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.icon-button {
+  margin-bottom: 20px; /* Marge en bas */
+  margin-right: 10px; /* Marge à droite */
+}
+
+.MuiOutlinedInput-root {
+  &.Mui-focused fieldset {
+    border-color: #43A047 !important;
+  }
+}
+
+.MuiInputBase-root {
+  color: black; 
+}
+
+.MuiButton-contained {
+  background-color: #43A047 !important;
+  color: white !important; 
+}
+
+.MuiButton-contained:hover {
+  background-color: #388E3C !important;
+}
+
+.dialog-button-reset {
+  background-color: white !important;
+  color: Green !important;
+}
+
+.dialog-button-reset:hover {
+  background-color: #8B8B8B !important; 
+}
+
+/* Styles pour pagination */
+.pagination {
+  margin-bottom: 20px;
+}
+
+.pagination .MuiPaginationItem-root {
+  border: none; 
+}
+
+.pagination .Mui-selected {
+  border-radius: 50%; 
+  background-color: gray;
+  color: white; 
+}
+
+.pagination .Mui-selected:hover,
+.pagination .Mui-selected.Mui-focusVisible {
+  background-color: gray; 
+}
+/* Styles pour le Dialog de L'ajout */
+
+.add-button-container {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.add-button {
+  background-color: #43A047; 
+  color: white; 
+  text-transform: none !important; 
+
+}
+
+.add-button:hover {
+  background-color: #388E3C; 
+}
+
+.dialog-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.dialog-content {
+  padding: 40px;
+  margin : 40px;
+}
+
+.text-field {
+  margin-bottom: 16px;
+}
+
+.text-field .MuiInputBase-root {
+  background-color: rgba(225, 190, 231, 0.2);
+}
+
+.text-field:hover .MuiInputBase-root {
+  background-color: rgba(225, 190, 231, 0.3);
+}
+
+.text-field.Mui-focused .MuiInputBase-root {
+  background-color: rgba(225, 190, 231, 0.5);
+}
+
+.select-field {
+  margin-bottom: 16px;
+}
+
+.dialog-actions {
+  padding: 8px 16px;
+}
+
+.cancel-button {
+  background-color: #43A047;
+  color: white;
+  text-transform: none;
+}
+
+.cancel-button:hover {
+  background-color: #388E3C;
+}
+
+.add-button {
+  background-color: #43A047;
+  color: white;
+  text-transform: none;
+}
+
+.add-button:hover {
+  background-color: #388E3C;
+}
+
+.add-button.disabled {
+  background-color: #ccc;
+  color: white;
+}
+
+.add-button.disabled:hover {
+  background-color: #ccc; 
+}
+
+.dialog-actions {
+  display: flex; 
+  justify-content: center; 
+  margin-bottom: 10px;
+  gap: 10px; 
+}
+
+
+.dialog-title {
+  text-align: center; 
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.cancel-button,
+.add-button {
+  padding: 12px 24px; 
+  font-size: 16px; 
+  text-transform: none !important; 
+}
+
+
+
